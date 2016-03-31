@@ -1,0 +1,26 @@
+{
+  "name": "node_academy",
+  "version": "1.0.0",
+  "description": "Estudo node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test_front"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bruno-Louvem/node_academy.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Bruno louvem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bruno-Louvem/node_academy/issues"
+  },
+  "homepage": "https://github.com/Bruno-Louvem/node_academy#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.1"
+  },
+  "devDependencies": {}
+}
